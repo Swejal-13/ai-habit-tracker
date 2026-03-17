@@ -80,7 +80,7 @@ habit-tracker/
 
 - Node.js 18+
 - MongoDB (local or Atlas)
-- An AI API key (Anthropic or OpenAI)
+- An AI API key (Gemini)
 
 ### 2. Clone & install dependencies
 
